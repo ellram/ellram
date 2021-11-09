@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ellram and you can call me Elly 
+- 👋 Hi, I’m @ellram
 - 👀 I’m interested in JS and Python, and generall fascinated by learning new developments that can help my knowlage.
 - 🌱 I’m currently learning datastructures and more JS and on my spare time im trying to learn some Machine Learning.
 - 💞️ I’m looking to collaborate on PHP and SQL (dashboard mySQL). Perhaps i could also do JS:)
